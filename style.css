@@ -1,9 +1,12 @@
 <h1>{
-  color = blue
-  color = red
-  25px
+  color = "blue"
+  color = "red"
+  "25px"
 </h1> }
 <p1>{
   color = red
   24px
+}
+<img src = "Test.jpg"{
+  "500x200px"
 }
