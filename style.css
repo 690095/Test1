@@ -8,5 +8,8 @@
   font-size: 24px;
 }
 <img src = "Test.jpg"{
-  "500x200px"
+max-height: 150px;
+  max-width: 200px;
+  height: 120px;
+  width: 120px;
 }
